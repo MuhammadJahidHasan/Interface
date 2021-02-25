@@ -1,0 +1,13 @@
+/media/jahid_hasan/Software/VisualStudio Project/ConsoleProject/Interface/bin/Debug/netcoreapp3.1/Interface
+/media/jahid_hasan/Software/VisualStudio Project/ConsoleProject/Interface/bin/Debug/netcoreapp3.1/Interface.deps.json
+/media/jahid_hasan/Software/VisualStudio Project/ConsoleProject/Interface/bin/Debug/netcoreapp3.1/Interface.runtimeconfig.json
+/media/jahid_hasan/Software/VisualStudio Project/ConsoleProject/Interface/bin/Debug/netcoreapp3.1/Interface.runtimeconfig.dev.json
+/media/jahid_hasan/Software/VisualStudio Project/ConsoleProject/Interface/bin/Debug/netcoreapp3.1/Interface.dll
+/media/jahid_hasan/Software/VisualStudio Project/ConsoleProject/Interface/bin/Debug/netcoreapp3.1/Interface.pdb
+/media/jahid_hasan/Software/VisualStudio Project/ConsoleProject/Interface/obj/Debug/netcoreapp3.1/Interface.csprojAssemblyReference.cache
+/media/jahid_hasan/Software/VisualStudio Project/ConsoleProject/Interface/obj/Debug/netcoreapp3.1/Interface.AssemblyInfoInputs.cache
+/media/jahid_hasan/Software/VisualStudio Project/ConsoleProject/Interface/obj/Debug/netcoreapp3.1/Interface.AssemblyInfo.cs
+/media/jahid_hasan/Software/VisualStudio Project/ConsoleProject/Interface/obj/Debug/netcoreapp3.1/Interface.csproj.CoreCompileInputs.cache
+/media/jahid_hasan/Software/VisualStudio Project/ConsoleProject/Interface/obj/Debug/netcoreapp3.1/Interface.dll
+/media/jahid_hasan/Software/VisualStudio Project/ConsoleProject/Interface/obj/Debug/netcoreapp3.1/Interface.pdb
+/media/jahid_hasan/Software/VisualStudio Project/ConsoleProject/Interface/obj/Debug/netcoreapp3.1/Interface.genruntimeconfig.cache
